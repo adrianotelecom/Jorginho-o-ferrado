@@ -5,5 +5,10 @@ Foi criado um jogo que conta a historia de um senhor que ficou individado e busc
 Projeto e ideias composta por:
 
 https://github.com/adrianotelecom
+
 https://github.com/vitorlombardi
+
 https://github.com/ttgomes
+
+
+**https://github.com/jorginho-o-guerreiro**
